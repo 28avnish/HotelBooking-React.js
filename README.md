@@ -1,3 +1,3 @@
 Static landing page for hotel booking using [ ReactJs with TailwindCSS and ShadCN ]
 
-Website Link : 
+Website Link : https://hotel-booking-inky.vercel.app/
